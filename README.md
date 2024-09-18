@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/agust%C3%ADn-ruiz-mart%C3%ADn-1b539a33/
 - 😄 Pronouns: Utnapishtim
 
-Mis repositorios favoritos:
+My favorite repositories:
 https://github.com/LadyKerr/github-certification-guide
 
 <!---
