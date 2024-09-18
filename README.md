@@ -6,7 +6,7 @@
 - 😄 Pronouns: Utnapishtim
 
 Mis repositorios favoritos:
-https://education.github.com/experiences/foundations_certificate
+https://github.com/LadyKerr/github-certification-guide
 
 <!---
 Painkiller-GH/Painkiller-GH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
