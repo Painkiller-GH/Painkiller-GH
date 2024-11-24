@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Painkiller-GH
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Power BI, Management and AI
+- 👀 I’m interested in Management and Leadership
+- 🌱 I’m currently learning Power BI and AI
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me: https://www.linkedin.com/in/agust%C3%ADn-ruiz-mart%C3%ADn-1b539a33/
 - 😄 Pronouns: Utnapishtim
