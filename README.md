@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Business Analysis
 - 📫 How to reach me: https://www.linkedin.com/in/agust%C3%ADn-ruiz-mart%C3%ADn-1b539a33/
-- Creds titled: 'The Toolbox: Denimori Edition': https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7279338479459688450-hYzK?utm_source=share&utm_medium=member_desktop
+- 🚀 Creds titled: 'The Toolbox: Denimori Edition': https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7279338479459688450-hYzK?utm_source=share&utm_medium=member_desktop
 - 😄 Pronouns: Utnapishtim
 
 <!---
