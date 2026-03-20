@@ -1,35 +1,35 @@
 # Agustín Ruiz Martín
 
-Profesional con experiencia en Gestión Empresarial y especialización en Data Analytics y Lean Management.
-Actualmente formándome en gestión del conocimiento aplicada a IA.
+Professional with extensive experience in Business Management, specializing in Data Analytics and Lean Management.
+Currently training in AI-driven Knowledge Management.
 
-## Proyectos de Data Analytics
+## Data Analytics Projects
 
-**Dashboard Marketing Campaign**
-Análisis de 2.240 clientes: campañas, canales, productos y comportamiento de compra.
-Herramientas: Power BI, Power Query, DAX.
+**Marketing Campaign Dashboard**
+Analysis of 2,240 customers: campaigns, channels, products, and purchase behavior.
+Tools: Power BI, Power Query, DAX.
 https://github.com/Painkiller-GH/dashboard-marketing-campaign
 
-**Dashboard RRHH**
-Análisis de 801 empleados: edad, antigüedad y cuadro salarial 2020.
-Herramientas: Power BI, Power Query, DAX.
+**HR Dashboard**
+Analysis of 801 employees: age, seniority, and salary overview for 2020.
+Tools: Power BI, Power Query, DAX.
 https://github.com/Painkiller-GH/dashboard-rrhh-power-bi
 
-**Dashboard Supply Chain**
-Gestión de compras con 117 órdenes y 22 proveedores activos. OTIF global: 87,6%.
-Herramientas: Power BI, Power Query, DAX.
+**Supply Chain Dashboard**
+Purchase order management with 117 orders and 22 active suppliers. Global OTIF: 87.6%.
+Tools: Power BI, Power Query, DAX.
 https://github.com/Painkiller-GH/dashboard-supply-chain-power-bi
 
-## Proyectos de Gestión de Operaciones
+## Operations Management Projects
 
-**Decisiones Tácticas y Operativas en la Dirección de Producción y Operaciones**
-Material de análisis del subsistema de Producción y Operaciones en las organizaciones.
-Cubre desde la planificación agregada y gestión de inventarios hasta MRP, programación a corto plazo
-y filosofías de gestión como Lean Management y Teoría de las Restricciones.
-Incluye presentaciones en PDF y PowerPoint organizadas en 4 bloques temáticos.
+**Tactical and Operational Decisions in Production and Operations Management**
+Systematic analysis of the Production and Operations subsystem in organizations.
+Covers aggregate planning, inventory management, MRP, short-term scheduling,
+and management philosophies including Lean Management and Theory of Constraints.
+Includes PDF and PowerPoint presentations organized into 4 thematic modules.
 https://github.com/Painkiller-GH/Decisiones-Tacticas-y-Operativas-en-la-Direccion-de-Produccion-y-Operaciones
 
-## Contacto
+## Contact
 
 📫 https://www.linkedin.com/in/agust%C3%ADn-ruiz-mart%C3%ADn-1b539a33/
 <!---
