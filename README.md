@@ -20,6 +20,11 @@ Purchase order management with 117 orders and 22 active suppliers. Global OTIF: 
 Tools: Power BI, Power Query, DAX.
 https://github.com/Painkiller-GH/dashboard-supply-chain-power-bi
 
+**Video Game Sales Dashboard**
+Analysis of 16,326 titles across 31 platforms and 576 publishers from 1980 to 2017. Total: 8.82B units sold worldwide.
+Tools: HTML5, CSS3, Chart.js, GitHub Pages.
+[View Dashboard](https://painkiller-gh.github.io/videogame-sales-dashboard/) | https://github.com/Painkiller-GH/videogame-sales-dashboard
+
 ## Operations Management Projects
 
 **Tactical and Operational Decisions in Production and Operations Management**
