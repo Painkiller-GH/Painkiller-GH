@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Painkiller-GH
+- 👋 Hi, I’m Agustín Ruiz Martín
 - 👀 I’m interested in Management, Strategy and AI
 - 🌱 I’m currently specializing in AI-driven Knowledge Management
 - 📫 How to reach me: https://www.linkedin.com/in/agust%C3%ADn-ruiz-mart%C3%ADn-1b539a33/
