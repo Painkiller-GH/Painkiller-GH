@@ -34,6 +34,14 @@ and management philosophies including Lean Management and Theory of Constraints.
 Includes PDF and PowerPoint presentations organized into 4 thematic modules.
 https://github.com/Painkiller-GH/Decisiones-Tacticas-y-Operativas-en-la-Direccion-de-Produccion-y-Operaciones
 
+## AI and LLM Projects
+
+**Spain Weather Map**
+Weather map for Spain prototyped with Replit Agent (React + Vite + Express) and ported to Windows.
+Documents the full adaptation process: dependency fixes, environment variables, Vite proxy, and bug corrections.
+Final project — UNED Machine Learning y LLMs aplicados a la Innovación Empresarial.
+[View App](https://spain-weather-map--painkiller2126.replit.app/) | https://github.com/Painkiller-GH/replit-to-windows-spain-weather
+
 ## Contact
 
 📫 https://www.linkedin.com/in/agust%C3%ADn-ruiz-mart%C3%ADn-1b539a33/
