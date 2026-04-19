@@ -40,7 +40,7 @@ https://github.com/Painkiller-GH/Decisiones-Tacticas-y-Operativas-en-la-Direccio
 Weather map for Spain prototyped with Replit Agent (React + Vite + Express) and ported to Windows.
 Documents the full adaptation process: dependency fixes, environment variables, Vite proxy, and bug corrections.
 Final project — UNED Machine Learning y LLMs aplicados a la Innovación Empresarial.
-[View App](https://spain-weather-map--painkiller2126.replit.app/) | https://github.com/Painkiller-GH/replit-to-windows-spain-weather
+| https://github.com/Painkiller-GH/replit-to-windows-spain-weather
 
 ## Contact
 
