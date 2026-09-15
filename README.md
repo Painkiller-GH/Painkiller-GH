@@ -1,7 +1,6 @@
 # Agustín Ruiz Martín
 
 Professional with extensive experience in Business Management, specializing in Data Analytics and Lean Management.
-Currently training in AI-driven Knowledge Management.
 
 ## Data Analytics Projects
 
