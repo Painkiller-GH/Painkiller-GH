@@ -2,6 +2,16 @@
 
 Professional with extensive experience in Business Management, specializing in Data Analytics and Lean Management.
 
+## Operations Management Projects
+
+**Tactical and Operational Decisions in Production and Operations Management**
+Systematic analysis of the Production and Operations subsystem in organizations.
+Covers aggregate planning, inventory management, MRP, short-term scheduling,
+and management philosophies including Lean Management and Theory of Constraints.
+Includes PDF and PowerPoint presentations organized into 4 thematic modules.
+https://github.com/Painkiller-GH/Decisiones-Tacticas-y-Operativas-en-la-Direccion-de-Produccion-y-Operaciones
+
+
 ## Data Analytics Projects
 
 **Marketing Campaign Dashboard**
@@ -24,14 +34,6 @@ Analysis of 16,326 titles across 31 platforms and 576 publishers from 1980 to 20
 Tools: HTML5 + CSS3, Chart.js, Google Fonts, Vanilla JavaScript,  GitHub Pages.
 [View Dashboard](https://painkiller-gh.github.io/videogame-sales-dashboard/) | https://github.com/Painkiller-GH/videogame-sales-dashboard
 
-## Operations Management Projects
-
-**Tactical and Operational Decisions in Production and Operations Management**
-Systematic analysis of the Production and Operations subsystem in organizations.
-Covers aggregate planning, inventory management, MRP, short-term scheduling,
-and management philosophies including Lean Management and Theory of Constraints.
-Includes PDF and PowerPoint presentations organized into 4 thematic modules.
-https://github.com/Painkiller-GH/Decisiones-Tacticas-y-Operativas-en-la-Direccion-de-Produccion-y-Operaciones
 
 ## AI and LLM Projects
 
