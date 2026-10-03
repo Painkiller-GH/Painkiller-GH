@@ -1,6 +1,6 @@
 # Agustín Ruiz Martín
 
-Professional with extensive experience in Business Management, specializing in Data Analytics and Lean Management.
+Professional with extensive experience in Business Management, specializing in AI, Data Analytics and Lean Management.
 
 ## Operations Management Projects
 
